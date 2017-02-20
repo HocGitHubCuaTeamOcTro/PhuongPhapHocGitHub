@@ -55,3 +55,14 @@ $ git log
 $ git revert paste cai ID vao day
 Xong nhan nut ESC roi nhan Shift : go q
 Nhu vay la da tro lai trang thai truoc
+=============================================
+----Cach dang nhap tai khoan github vao Git Bash----
+$ git config --global user.email "you@example.com"
+$ git config --global user.name "Your Name"
+===================================================
+
+---Cach dang xuat tai khoan github ra khoi Git Bash---
+$ git config --global --unset user.email. het
+$ git config --global --unset user.name. het
+=====================================================
+
